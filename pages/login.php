@@ -21,10 +21,10 @@
                                 <div class="card shadow-lg border-0 rounded-lg mt-5">
                                     <div class="card-header bg-success"><h3 class="text-center font-weight-light my-4">Login</h3></div>
                                     <div class="card-body">
-                                        <form>
+                                        <form method="POST" action="index.php?page=proseslogin">
                                             <div class="form-floating mb-3">
                                                 <input class="form-control" id="inputUsername" type="text" placeholder="Username" />
-                                                <label for="inputEmail">Username</label>
+                                                <label for="inputUsername">Username</label>
                                             </div>
                                             <div class="form-floating mb-3">
                                                 <input class="form-control" id="inputPassword" type="password" placeholder="Password" />
@@ -36,7 +36,7 @@
                                             </div>
                                             <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
                                                 <a class="small" href="password.html">Forgot Password?</a>
-                                                <a class="btn bg-dark" href="index.php?page=dashboard">Login</a>
+                                                <button class="btn btn-primary" type="submit">LOgin</button>
                                             </div>
                                         </form>
                                     </div>

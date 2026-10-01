@@ -1,0 +1,49 @@
+[2026-10-01 19:35:25] Sakuci\Exceptions\HttpException: Route untuk [GET /favicon.ico] tidak ditemukan. di /public/ukk-2026/core/Routing/Router.php:247
+#0 /public/ukk-2026/core/Routing/Router.php(217): Sakuci\Routing\Router->findRoute()
+#1 /public/ukk-2026/core/Application.php(64): Sakuci\Routing\Router->dispatch()
+#2 /public/ukk-2026/public/index.php(15): Sakuci\Application->run()
+#3 /public/ukk-2026/server.php(15): require('...')
+#4 {main}
+
+[2026-10-01 19:37:59] Sakuci\Exceptions\HttpException: Route untuk [GET /favicon.ico] tidak ditemukan. di /public/ukk-2026/core/Routing/Router.php:247
+#0 /public/ukk-2026/core/Routing/Router.php(217): Sakuci\Routing\Router->findRoute()
+#1 /public/ukk-2026/core/Application.php(64): Sakuci\Routing\Router->dispatch()
+#2 /public/ukk-2026/public/index.php(15): Sakuci\Application->run()
+#3 /public/ukk-2026/server.php(15): require('...')
+#4 {main}
+
+[2026-10-01 19:47:55] Sakuci\Exceptions\HttpException: Route untuk [GET /favicon.ico] tidak ditemukan. di /public/ukk-2026/core/Routing/Router.php:247
+#0 /public/ukk-2026/core/Routing/Router.php(217): Sakuci\Routing\Router->findRoute()
+#1 /public/ukk-2026/core/Application.php(64): Sakuci\Routing\Router->dispatch()
+#2 /public/ukk-2026/public/index.php(15): Sakuci\Application->run()
+#3 /public/ukk-2026/server.php(15): require('...')
+#4 {main}
+
+[2026-10-01 20:05:50] Sakuci\Exceptions\HttpException: Route untuk [GET /favicon.ico] tidak ditemukan. di /public/ukk-2026/core/Routing/Router.php:247
+#0 /public/ukk-2026/core/Routing/Router.php(217): Sakuci\Routing\Router->findRoute()
+#1 /public/ukk-2026/core/Application.php(64): Sakuci\Routing\Router->dispatch()
+#2 /public/ukk-2026/public/index.php(15): Sakuci\Application->run()
+#3 /public/ukk-2026/server.php(15): require('...')
+#4 {main}
+
+[2026-10-01 20:06:45] Sakuci\Exceptions\HttpException: Route untuk [GET /favicon.ico] tidak ditemukan. di /public/ukk-2026/core/Routing/Router.php:247
+#0 /public/ukk-2026/core/Routing/Router.php(217): Sakuci\Routing\Router->findRoute()
+#1 /public/ukk-2026/core/Application.php(64): Sakuci\Routing\Router->dispatch()
+#2 /public/ukk-2026/public/index.php(15): Sakuci\Application->run()
+#3 /public/ukk-2026/server.php(15): require('...')
+#4 {main}
+
+[2026-10-01 20:08:50] Sakuci\Exceptions\HttpException: Route untuk [GET /favicon.ico] tidak ditemukan. di /public/ukk-2026/core/Routing/Router.php:247
+#0 /public/ukk-2026/core/Routing/Router.php(217): Sakuci\Routing\Router->findRoute()
+#1 /public/ukk-2026/core/Application.php(64): Sakuci\Routing\Router->dispatch()
+#2 /public/ukk-2026/public/index.php(15): Sakuci\Application->run()
+#3 /public/ukk-2026/server.php(15): require('...')
+#4 {main}
+
+[2026-10-01 20:10:28] Sakuci\Exceptions\HttpException: Route untuk [GET /favicon.ico] tidak ditemukan. di /public/ukk-2026/core/Routing/Router.php:247
+#0 /public/ukk-2026/core/Routing/Router.php(217): Sakuci\Routing\Router->findRoute()
+#1 /public/ukk-2026/core/Application.php(64): Sakuci\Routing\Router->dispatch()
+#2 /public/ukk-2026/public/index.php(15): Sakuci\Application->run()
+#3 /public/ukk-2026/server.php(15): require('...')
+#4 {main}
+

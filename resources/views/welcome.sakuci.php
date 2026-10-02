@@ -5,7 +5,7 @@
 @section('content')
 
 {{-- =========================
-HERO
+HEROs
 ========================= --}}
 
 <header class="home-hero">{{-- Dekorasi background --}}
